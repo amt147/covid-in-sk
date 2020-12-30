@@ -1,6 +1,5 @@
 # The State of COVID-19 in South Korea 
-Final project for Python for Data Management & Analytics
-Spring 2020
+Final project for Python for Data Management & Analytics, Spring 2020
 
 ## Overview
 * Explored epidemiological data to research patient outcome (released, isolated, or deceased) patterns in South Korea
