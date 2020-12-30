@@ -2,11 +2,11 @@
 Final project for Python for Data Management & Analytics, Spring 2020
 
 ## Overview
-* Explored epidemiological data to research patient outcome (released, isolated, or deceased) patterns in South Korea
-* Used the Naive Bayes algorithm as well as the kNN algorithm to train and test data
-* Wrote a final research paper in IEEE conference format
+* Explored epidemiological data to research patient outcome (released, isolated, or deceased) patterns in South Korea.
+* Used the Naive Bayes algorithm as well as the kNN algorithm to train and test data.
+* Wrote a final research paper in IEEE conference format.
 
-## Intro
+## Introduction
 * I chose to research the outcomes of people who contracted COVID-19 (Coronavirus Disease 2019). As a Chinese person in the midst of this viral outbreak, I have felt pretty strongly about the virus due to its origin in China and the public’s reaction to it. Since COVID-19 is spreading widely and quickly, I thought it would be useful to look at patterns of who it has been affecting the most. 
 * Anyone who is planning on travelling to heavily infected areas or anyone who is simply worried about the virus could somewhat benefit from my model. I looked at datasets with patient information and analyzed the effects of the virus on the patients based on variables such as location, age, gender, and the date that the patient contracted the virus. 
 
