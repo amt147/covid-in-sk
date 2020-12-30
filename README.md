@@ -2,16 +2,16 @@
 Final project for Python for Data Management & Analytics, Spring 2020
 
 ## Overview
-* Explored epidemiological data to research patient outcome (released, isolated, or deceased) patterns in South Korea.
+* Explored epidemiological data of COVID-19 patients in South Korea to research patient outcome (released, isolated, or deceased) patterns.
 * Used the Naive Bayes algorithm as well as the kNN algorithm to train and test data.
-* Wrote a final research paper in IEEE conference format.
+* Wrote a final paper in IEEE conference format.
 
 ## Introduction
 * I chose to research the outcomes of people who contracted COVID-19 (Coronavirus Disease 2019). As a Chinese person in the midst of this viral outbreak, I have felt pretty strongly about the virus due to its origin in China and the public’s reaction to it. Since COVID-19 is spreading widely and quickly, I thought it would be useful to look at patterns of who it has been affecting the most. 
 * Anyone who is planning on travelling to heavily infected areas or anyone who is simply worried about the virus could somewhat benefit from my model. I looked at datasets with patient information and analyzed the effects of the virus on the patients based on variables such as location, age, gender, and the date that the patient contracted the virus. 
 
 ## Data
-* I used an open dataset that is based on report materials from the Korea Centers for Disease Control & Prevention and local governments, containing patient information from January to March 2020.
+* I used an open dataset that was made based on report materials from the Korea Centers for Disease Control & Prevention and local governments, containing patient information from January to March 2020.
 * Cleaned the data by removing unnecessary variables, dealing with null values, and ensuring the data was consistent.
   - Removed columns that didn't not give much nsight on deciding the state of the patient.
   - Dropped columns with too much null data, choosing more indicative factors with more telling data.
