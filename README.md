@@ -13,14 +13,14 @@ Final project for Python for Data Management & Analytics, Spring 2020
 ## Data
 * I used an open dataset that was made based on report materials from the Korea Centers for Disease Control & Prevention and local governments, containing patient information from January to March 2020.
 * Heatmap of original data
-![heatmap][https://github.com/amt147/covid-in-sk/blob/master/images/heatmap.png?raw=true]
+![heatmap](https://github.com/amt147/covid-in-sk/blob/master/images/heatmap.png?raw=true)
 * Cleaned the data by removing unnecessary variables, dealing with null values, and ensuring the data was consistent.
   - Removed columns that didn't not give much insight on deciding the state of the patient.
   - Dropped columns with too much null data, choosing more indicative factors with more telling data.
   - In other cases, replaced rows with null data with the mean of the column.
 * Generated several graphs (histograms, box plot) to check out some of the variables and hypothesize the impact of the virus on the patients.
-![agedist][https://github.com/amt147/covid-in-sk/blob/master/images/agedistribution.png?raw=true] 
-![patientstates][https://github.com/amt147/covid-in-sk/blob/master/images/patientstates.png?raw=true]
+![agedist](https://github.com/amt147/covid-in-sk/blob/master/images/agedistribution.png?raw=true)
+![patientstates](https://github.com/amt147/covid-in-sk/blob/master/images/patientstates.png?raw=true)
 
 ## Analysis & Results
 * I chose to use the Naive Bayes algorithm to train and test the data due to it being able to perform well in multiclass class prediction and with categorical input variables. I also chose to use the k-nearest neighbors (KNN) algorithm, as it naturally handles multiclass cases and is flexible to feature choices.
