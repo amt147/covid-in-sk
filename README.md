@@ -13,7 +13,9 @@ Final project for Python for Data Management & Analytics, Spring 2020
 ## Data
 * I used an open dataset that was made based on report materials from the Korea Centers for Disease Control & Prevention and local governments, containing patient information from January to March 2020.
 * Heatmap of original data
+
 ![heatmap](https://github.com/amt147/covid-in-sk/blob/master/images/heatmap.png?raw=true)
+
 * Cleaned the data by removing unnecessary variables, dealing with null values, and ensuring the data was consistent.
   - Removed columns that didn't not give much insight on deciding the state of the patient.
   - Dropped columns with too much null data, choosing more indicative factors with more telling data.
