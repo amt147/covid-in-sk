@@ -11,7 +11,7 @@ Final project for Python for Data Management & Analytics, Spring 2020
 * Anyone who is planning on travelling to heavily infected areas or anyone who is simply worried about the virus could somewhat benefit from my model. I looked at datasets with patient information and analyzed the effects of the virus on the patients based on variables such as location, age, gender, and the date that the patient contracted the virus. 
 
 ## Data
-* I used an open dataset that was made based on report materials from the Korea Centers for Disease Control & Prevention and local governments, containing patient information from January to March 2020.
+* I used an open dataset that was made based on report materials from the Korea Centers for Disease Control & Prevention and local governments, containing patient information from January to March 2020. (https://www.kaggle.com/kimjihoo/coronavirusdataset)
 * Heatmap of original data
 
 ![heatmap](https://github.com/amt147/covid-in-sk/blob/master/images/heatmap.png?raw=true)
